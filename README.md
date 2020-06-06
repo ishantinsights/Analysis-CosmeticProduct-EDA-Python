@@ -1,5 +1,11 @@
 # Analysis-CosmeticProduct-EDA-Python
 
+
+## Overview
+- Cleaned the data using python library which is Pandas and numpy
+- Performed EDA with the help of numpy, pandas, Matplotlib andseaborn
+
+
 ## Problem Statement
 One of India's top most cosmetic product company has a wide range of
 sales spread across different parts of the country. The given data is the sales record of
