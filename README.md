@@ -59,7 +59,12 @@ and so on..
 7. We can focus on product id, product category, product size where there is less sales, find the cause and analyze further
 
 ## Hypothesis
-Our null hypothesis is true i.e low MRP has comparatively high sales than high MRP has low sale
+   Our null hypothesis is true i.e low MRP has comparatively high sales than high MRP has low sale
+
+## Conclusion
+1. Reduce MRP or provide some kind of dicount in warehouses and zones where the sales are less given above
+2. Provide discount who buy products in mass like 3 or more
+3. Focus on different parameter why high MRP does not have high sales 
 
 ## Video of Analysis of cosmetic product (Click on the Image)
 
